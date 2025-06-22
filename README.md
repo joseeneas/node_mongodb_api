@@ -13,3 +13,4 @@ This is a simple Express.js API that connects to MongoDB and retrieves user data
 The original requirements are in the file Jobs.PDF
 
 The code has been fully documented using GitHub CoPilot. the documentation was just formatted to make it easier to read.
+This type of extensive documentation is the one I use for training purposes.
